@@ -13,6 +13,7 @@ function App() {
       
         <Header/>
         <Searchbar/>
+        
         <Movie/>
         
       </div>
